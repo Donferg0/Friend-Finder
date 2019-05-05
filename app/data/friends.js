@@ -3,16 +3,16 @@ var friends =[
     "name":"Jon Snow",
     "photo":"https://pbs.twimg.com/profile_images/901947348699545601/hqRMHITj_400x400.jpg",
     "scores":[
+        4,
+        4,
+        5,
+        5,
         5,
         1,
-        4,
-        4,
         5,
-        1,
-        2,
         5,
         4,
-        1
+        5
       ]
  },
  {
@@ -20,14 +20,14 @@ var friends =[
     "photo":"https://data.whicdn.com/images/269125814/large.jpg",
     "scores":[
         5,
-        1,
-        4,
-        4,
-        5,
-        1,
         2,
         5,
-        4,
+        1,
+        1,
+        5,
+        5,
+        1,
+        1,
         1
       ]
  },
@@ -35,16 +35,16 @@ var friends =[
     "name":"Eddard Stark",
     "photo":"https://vignette.wikia.nocookie.net/gameofthrones/images/8/8f/Lord_Eddard_Stark_infobox.jpg/revision/latest/scale-to-width-down/310?cb=20190427041634",
     "scores":[
+        1,
+        5,
+        5,
+        5,
         5,
         1,
-        4,
-        4,
         5,
         1,
         2,
-        5,
-        4,
-        1
+        3
       ]
  },
  {
